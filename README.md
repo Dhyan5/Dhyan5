@@ -73,7 +73,7 @@ Virtual legal intelligence platform that democratizes access to the Indian Penal
 
 <div align="center">
 
-![Contribution snake animation](https://raw.githubusercontent.com/Dhyan5/Dhyan5/output/github-contribution-grid-snake.svg)
+![Contribution snake animation dark mode](https://raw.githubusercontent.com/Dhyan5/Dhyan5/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
