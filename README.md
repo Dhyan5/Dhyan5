@@ -28,7 +28,6 @@
 - 🩺 Building **HridyaDarpan** — an AI cardiovascular health SaaS with a real-time 3D Digital Heart Twin
 - 🧭 Building **Software Archaeologist** — a static-analysis tool that helps developers understand legacy codebases
 - ⚖️ Built **VakeelAI** — a legal-tech assistant that makes the Indian Penal Code and constitutional rights searchable in plain English
-- 🏆 Selected for **Smart India Hackathon 2025**
 - 🎨 **Design Lead** at ISDC (Innovex Student Developer Community) — leading a team of 15
 - 💬 Ask me about Python, computer vision, systems/resource monitoring, or full-stack development
 
@@ -36,40 +35,9 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Web / Backend**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**AI / Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge&logoColor=white)
-
-**Systems & DevOps**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Tools & 3D/Web**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,opencv,webgl,threejs,linux,docker,githubactions,aws,git,github,vscode,figma,postman&theme=dark&perline=9" alt="Tech stack icons" />
+</p>
 
 <br/>
 
@@ -104,19 +72,25 @@ Virtual legal intelligence platform that democratizes access to the Indian Penal
   <img src="https://github-profile-trophy.vercel.app/?username=Dhyan5&theme=radical&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhyan5&theme=react-dark&hide_border=true" alt="Contribution activity graph" />
-</p>
-
 <br/>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhyan5/Dhyan5/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhyan5/Dhyan5/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhyan5/Dhyan5/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Dhyan5/Dhyan5/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
-> Generated automatically by the included `snake.yml` GitHub Action — see setup notes below.
+<br/>
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic quote" />
+</p>
 
 <br/>
 
@@ -127,6 +101,49 @@ Direct the visual identity and design principles for the org, lead a team of 15 
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
-</div>
+<details>
+<summary>⚙️ One-time setup: make the stats, streak, and snake actually go live</summary>
+
+<br/>
+
+1. Create a **public** repo named exactly `Dhyan5` (must match your GitHub username) and put this file in it as `README.md` — GitHub auto-renders that as your profile page. The stats/streak/trophy images above work immediately once that repo exists.
+
+2. To activate the animated snake, add this file as `.github/workflows/snake.yml` in that same repo:
+
+```yaml
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Dhyan5
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push generated svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Settings → Actions → General → Workflow permissions** and enable "Read and write permissions" so the action can push the generated SVG, then run it once from the **Actions** tab.
+
+</details>
