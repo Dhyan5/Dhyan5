@@ -2,7 +2,7 @@
 
 # Hi there, I'm Dhyan S Shetty 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Information+Science+Engineering+Student;+Ideas+Into+Production-Ready+Software)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Information+Science+Engineering+Student;+Turning+Ideas+Into+Production-Ready+Software)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyan-shetty5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyanshetty7@gmail.com)
