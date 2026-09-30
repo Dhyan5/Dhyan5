@@ -54,34 +54,9 @@ Virtual legal intelligence platform that democratizes access to the Indian Penal
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhyan5&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyan5&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages" />
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhyan5&theme=radical&hide_border=true)
-
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Dhyan5&theme=radical&no-frame=true&row=1&column=6)
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Contribution snake animation dark mode](https://raw.githubusercontent.com/Dhyan5/Dhyan5/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
 ## 🏢 Organisation
 
-**Design Lead**, ISDC (Innovex Student Developer Community) · 2024 – Present
+**Core Member**, ISDC (Innovex Student Developer Community) · 2024 – Present
 Direct the visual identity and design principles for the org, lead a team of 15 building full-stack apps with 3D rendering and decentralized web tech (Web3.js, OpenGL, Three.js), and run Git/deployment workshops for 120+ students.
 
 <br/>
