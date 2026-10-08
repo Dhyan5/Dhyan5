@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://tenor.com/CdPsQhMn4j.gif" width="250" alt="Header Animation"/>
+
 # Hi there, I'm Dhyan S Shetty 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Information+Science+%26+Engineering+Student;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+Systems)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Information+Science+Engineering+Student;)
 
 <br/>
 
